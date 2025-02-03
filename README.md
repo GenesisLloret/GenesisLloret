@@ -7,7 +7,7 @@ Soy un **Desarrollador Full Stack** apasionado por transformar ideas en solucion
 - 🔭 Actualmente, trabajo en proyectos innovadores utilizando tecnologías modernas.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades, explorando nuevas herramientas y frameworks.
 - 💬 Me encanta colaborar en proyectos de código abierto y compartir conocimientos con la comunidad.
-- 📫 Puedes contactarme en [genesislloret@gmail.com](mailto:genesislloret@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com).
+- 📫 Puedes contactarme en [genesislloret@gmail.com](mailto:genesislloret@gmail.com) o seguirme en [LinkedIn](https://www.linkedin.com/in/genesis-lloret-ramos/).
 
 ## 🛠️ Tecnologías
 
@@ -55,7 +55,7 @@ I am a **Full Stack Developer** passionate about turning ideas into digital solu
 - 🔭 Currently working on innovative projects using modern technologies.
 - 🌱 Continuously learning and improving my skills by exploring new tools and frameworks.
 - 💬 I love collaborating on open source projects and sharing knowledge with the community.
-- 📫 You can reach me at [genesislloret@gmail.com](mailto:genesislloret@gmail.com) or follow me on [LinkedIn](https://www.linkedin.com).
+- 📫 You can reach me at [genesislloret@gmail.com](mailto:genesislloret@gmail.com) or follow me on [LinkedIn](https://www.linkedin.com/in/genesis-lloret-ramos/).
 
 ## 🛠️ Technologies
 
